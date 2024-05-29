@@ -40,5 +40,4 @@ Si se quieren agregar etiquetas diferentes dentro de una etiqueta padre se debe 
 
 ----
 
-### Truco 2: Crear una etiqueta padre con elementos hijos dentro
-
+### Truco 2:
