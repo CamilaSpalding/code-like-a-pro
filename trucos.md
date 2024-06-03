@@ -40,4 +40,28 @@ Si se quieren agregar etiquetas diferentes dentro de una etiqueta padre se debe 
 
 ----
 
-### Truco 2:
+### Truco 2: Rellenar con texto genérico
+
+Se puede escribir "lorem" dentro de la etiqueta que uno quiere rellenar con texto y al presionar "enter", te trae un texto en latin de relleno.
+
+    <p>
+        lorem
+    </p>
+
+----
+Si se quiere que el texto de relleno tenga una cantidad especifica de palabras se puede escribir, seguido del "lorem", el numero de palabras que se quiere que el texto contenga.
+
+    <p>
+        lorem100
+    </p>
+
+----
+Si se quiere que el texto de relleno tenga una cantidad especifica de parrafos se puede escribir, seguido del "lorem", el signo "*" y luego el numero de parrafos que se quiere que el texto contenga.
+
+    <p>
+        lorem*5
+    </p>
+
+----
+
+### Truco 3:
